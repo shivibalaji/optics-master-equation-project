@@ -1,0 +1,16 @@
+name: optics-me
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - scipy
+  - matplotlib
+  - sympy
+  - pandas
+  - tqdm
+  - ipykernel
+  - jupyter
+  - pip:
+      - qutip
