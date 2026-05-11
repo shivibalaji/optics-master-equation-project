@@ -1,0 +1,5 @@
+N,Hilbert dimension d=2^N,Density matrix entries d^2,Runtime seconds,Status
+7,128,16384,0.7004506587982178,completed
+8,256,65536,12.362445592880249,completed
+9,512,262144,30.14275026321411,completed
+10,1024,1048576,192.8453986644745,completed
